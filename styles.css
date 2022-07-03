@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(24, 12, 44);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #672990;
+
+
+}
+
+.icone {
+    width: 20px;
+    height: 20px;
+    padding-top: 3px;
+}
+
+label {
+    padding-right: 5px;
+    border-right: solid black;
+
+}
+
+.text_icon { vertical-align: middle;}
+
+aside {
+    float:left;
+}
+
+.expérience {
+    display: inline-block;
+}
+
+#carouselExampleIndicators {
+    width: 500px;
+    height: 300px;
+    border-style:groove;
+}
