@@ -28,3 +28,16 @@ aside {
     padding-left: 10px;
     max-width: 50%;
 }
+
+.container {
+    display : flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+
+}
+.sticker {
+    width:300px;
+    height: 100px; 
+    border: 1px;
+}
