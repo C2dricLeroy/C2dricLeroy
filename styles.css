@@ -1,7 +1,12 @@
 body {
-    background-color: rgb(43, 43, 72);
+    background: linear-gradient(#1F2F16,#395B50, #92AFD7);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #e1dae7;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
 }
 
 aside {
@@ -29,15 +34,38 @@ aside {
     max-width: 50%;
 }
 
-.container {
-    display : flex;
+.bloc {
+    display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
     align-content: flex-start;
-
 }
+
 .sticker {
     width:300px;
     height: 100px; 
     border: 1px;
+}
+
+#photo_cv {
+    object-fit: contain;
+    width: 100px; 
+    height: 200px;
+}
+
+.card-body {
+    background-color:rgb(27, 27, 44);
+    opacity: 0.73;
+}
+.logo_img {
+    background-color:rgb(27, 27, 44);
+    width: 50px;
+    height: 50px; 
+}
+.card {
+    background-color: rgb(44, 44, 72);
+}
+
+.contact {
+    width: 15%;
+    height: 20%;
 }
