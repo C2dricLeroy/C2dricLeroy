@@ -33,23 +33,24 @@ ___
 
 <h3>My Skills in progress</h3>
 
-|                                                                                                    	| Undefined 	| Null 	| Boolean 	| String 	| Object 	|
-|----------------------------------------------------------------------------------------------------	|-----------	|------	|---------	|--------	|--------	|
-| Modelling an application                                                                           	|           	|      	|         	|        	|        	|
-| Develop a Desktop User Interface                                                                   	|           	|      	|         	|        	|        	|
-| Develop data access components                                                                     	|           	|      	|         	|        	|        	|
-| Develop Front-End part of a User Interface                                                         	|           	|      	|         	|        	|        	|
-| Develop Back-end part of a User Interface                                                          	|           	|      	|         	|        	|        	|
-| Design a database                                                                                  	|           	|      	|         	|        	|        	|
-| Set up a database                                                                                  	|           	|      	|         	|        	|        	|
-| Develop components in the language of a database (SQL)                                             	|           	|      	|         	|        	|        	|
-| Collaborate in the management of an IT project and the organization of the development environment 	|           	|      	|         	|        	|        	|
-| Build a multi-layered application                                                                  	|           	|      	|         	|        	|        	|
-| Develop Business components                                                                        	|           	|      	|         	|        	|        	|
-| Develop a mobile app                                                                               	|           	|      	|         	|        	|        	|
-| Prepare and execute test plans for an application                                                  	|           	|      	|         	|        	|        	|
-| Prepare and execute deploying an application                                                       	|           	|      	|         	|        	|        	|
-|                                                                                                    	|           	|      	|         	|        	|        	|
+|                                                                                                    	| Undefined                                     	| Null 	| Boolean 	| String 	| Object 	|
+|----------------------------------------------------------------------------------------------------	|-----------------------------------------------	|------	|---------	|--------	|--------	|
+| Modelling an application                                                                           	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop a Desktop User Interface                                                                   	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop data access components                                                                     	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop Front-End part of a User Interface                                                         	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop Back-end part of a User Interface                                                          	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Design a database                                                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Set up a database                                                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop components in the language of a database (SQL)                                             	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Collaborate in the management of an IT project and the organization of the development environment 	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Build a multi-layered application                                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop Business components                                                                        	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Develop a mobile app                                                                               	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Prepare and execute test plans for an application                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+| Prepare and execute deploying an application                                                       	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
+|                                                                                                    	|                                               	|      	|         	|        	|        	|
+
 ___ 
 <div align="center">
 
