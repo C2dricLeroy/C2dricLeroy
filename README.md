@@ -35,21 +35,21 @@ ___
 
 |                                                                                                    	| Undefined                                     	| Null 	| Boolean 	| String 	| Object 	|
 |----------------------------------------------------------------------------------------------------	|-----------------------------------------------	|------	|---------	|--------	|--------	|
-| Modelling an application                                                                           	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop a Desktop User Interface                                                                   	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop data access components                                                                     	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop Front-End part of a User Interface                                                         	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop Back-end part of a User Interface                                                          	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Design a database                                                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Set up a database                                                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop components in the language of a database (SQL)                                             	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Collaborate in the management of an IT project and the organization of the development environment 	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Build a multi-layered application                                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop Business components                                                                        	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Develop a mobile app                                                                               	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Prepare and execute test plans for an application                                                  	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-| Prepare and execute deploying an application                                                       	| ![tick](Noun_Project_tick_icon_675776_cc.svg) 	|      	|         	|        	|        	|
-|                                                                                                    	|                                               	|      	|         	|        	|        	|
+| Modelling an application                                                                           	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
+| Develop a Desktop User Interface                                                                   	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
+| Develop data access components                                                                     	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Develop Front-End part of a User Interface                                                         	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
+| Develop Back-end part of a User Interface                                                          	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Design a database                                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Set up a database                                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Develop components in the language of a database (SQL)                                             	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Collaborate in the management of an IT project and the organization of the development environment 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Build a multi-layered application                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Develop Business components                                                                        	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Develop a mobile app                                                                               	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Prepare and execute test plans for an application                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Prepare and execute deploying an application                                                       	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+
 
 ___ 
 <div align="center">
