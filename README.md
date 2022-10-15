@@ -17,7 +17,7 @@
 ___
 
 
-Hello ! I'm Cédric Leroy! :running:
+Hello ! I'm **Cédric Leroy**! :running:
 
 After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment! Now, I currently prepare the french title of Software Engineer with Simplon 
 
