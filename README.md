@@ -17,10 +17,15 @@
 ___
 
 
-Hello ! I'm **Cédric Leroy**! :running:
+## I'm **Cédric Leroy**, a software engineer based in Lille! :running:
 
-After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment! Now, I currently prepare the french title of Software Engineer with Simplon 
+Hello, I'm Cédric Leroy! After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment. I quickly decide to start a new career in web-development and became a self-taught programmig student. As I discovered new tools and laguages, I decided to became a Software Engineer. In this context, I met the Simplon's team and engage for the preparation of the title! 
 
+I'm an **algorythmic lover**, a huge **music fan**, and a truly **trustworthy person**. 
+
+I would love to share with you my experiment and collaborate on different project, so feel free to contact me! 
+
+🔎 I'm looking for a 3 months internship from 04/03/2023 to 06/29/2023
 
 ___
 
@@ -55,16 +60,16 @@ ___
 | Modelling an application                                                                           	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
 | Develop a Desktop User Interface                                                                   	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
 | Develop data access components                                                                     	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Develop Front-End part of a User Interface                                                         	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
+| Develop Front-End part of a User Interface                                                         	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">        	|        	|        	|
 | Develop Back-end part of a User Interface                                                          	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
 | Design a database                                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
 | Set up a database                                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
 | Develop components in the language of a database (SQL)                                             	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Collaborate in the management of an IT project and the organization of the development environment 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Collaborate in the management of an IT project and the organization of the development environment 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
 | Build a multi-layered application                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
 | Develop Business components                                                                        	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
 | Develop a mobile app                                                                               	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Prepare and execute test plans for an application                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
+| Prepare and execute test plans for an application                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
 | Prepare and execute deploying an application                                                       	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
 
 
