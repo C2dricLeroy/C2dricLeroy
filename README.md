@@ -21,7 +21,7 @@ ___
 
 Hello, I'm Cédric Leroy! After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment. I quickly decide to start a new career in web-development and became a self-taught programmig student. As I discovered new tools and laguages, I decided to became a Software Engineer. In this context, I met the Simplon's team and engage for the preparation of the title! 
 
-I'm an **algorythmic lover**, a huge **music fan**, and a truly **trustworthy person**. 
+I'm an **algorithmic lover**, a huge **music fan**, and a truly **trustworthy person**. 
 
 I would love to share with you my experiment and collaborate on different project, so feel free to contact me! 
 
