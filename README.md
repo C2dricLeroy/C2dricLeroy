@@ -12,6 +12,8 @@
 </div>
 <div id="viewCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=C2dricLeroy&style=flat-square&color=blue" alt="view counter"/>
+  
+  [![Codewars](https://www.codewars.com/users/CedricLeroy/badges/large)](https://www.codewars.com/users/CedricLeroy)
 </div>  
 
 ___
