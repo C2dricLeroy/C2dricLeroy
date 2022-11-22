@@ -79,6 +79,7 @@ ___
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C2dricLeroy&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=C2dricLeroy&theme=blue-green)](https://git.io/streak-stats)
 </div>
 
 <div align = "center">
