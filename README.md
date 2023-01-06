@@ -57,24 +57,6 @@ ___
 
 <h3>My Skills in progress</h3>
 
-|                                                                                                    	| Undefined                                     	| Null 	| Boolean 	| String 	| Object 	|
-|----------------------------------------------------------------------------------------------------	|-----------------------------------------------	|------	|---------	|--------	|--------	|
-| Modelling an application                                                                           	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
-| Develop a Desktop User Interface                                                                   	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
-| Develop data access components                                                                     	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Develop Front-End part of a User Interface                                                         	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">        	|        	|        	|
-| Develop Back-end part of a User Interface                                                          	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Design a database                                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Set up a database                                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Develop components in the language of a database (SQL)                                             	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Collaborate in the management of an IT project and the organization of the development environment 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
-| Build a multi-layered application                                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Develop Business components                                                                        	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Develop a mobile app                                                                               	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-| Prepare and execute test plans for an application                                                  	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50">     	|         	|        	|        	|
-| Prepare and execute deploying an application                                                       	| <img src="Noun_Project_tick_icon_675776_cc.svg" width="50"> 	|      	|         	|        	|        	|
-
-
 ___ 
 <div align="center">
 
