@@ -27,8 +27,6 @@ I'm an **algorithmic lover**, a huge **music fan**, and a truly **trustworthy pe
 
 I would love to share with you my experiment and collaborate on different project, so feel free to contact me! 
 
-🔎 I'm looking for a 3 months internship from 04/03/2023 to 06/29/2023
-
 ___
 
 <h3>Languages and tools</h3>
