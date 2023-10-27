@@ -21,7 +21,7 @@ ___
 
 ## I'm **Cédric Leroy**, a software engineer based in Lille! :running:
 
-Hello, I'm Cédric Leroy! After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment. I quickly decide to start a new career in web-development and became a self-taught programmig student. As I discovered new tools and laguages, I decided to became a Software Engineer. In this context, I met the Simplon's team and engage for the preparation of the title. Recently diplomed, I'm looking for my first job opportunity!  
+Hello, I'm Cédric Leroy! After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment. I quickly decided to start a new career in web-development and became a self-taught programming student. As I discovered new tools and languages, I decided to became a Software Engineer. In this context, I met the Simplon's team and engaged for the preparation of the  application designer-developer title (CDA). As a recent graduate, I'm looking for my first job opportunity!
 
 I'm an **algorithmic lover**, a huge **music fan**, and a truly **trustworthy person**. 
 
