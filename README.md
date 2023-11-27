@@ -68,7 +68,7 @@ ___
 </div>
 
 <div id="viewCounter" align="center">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/C2dricLeroy/C2dricLeroy/blob/main/devcard.svg" width="400" alt="Cedric Leroy's Dev Card"/></a>
+  <a href="https://app.daily.dev/cdricleroy"><img src="https://github.com/C2dricLeroy/C2dricLeroy/blob/main/devcard.svg" width="400" alt="Cedric Leroy's Dev Card"/></a>
 </div> 
 
 <h3 align="left">Connect with me:</h3>
