@@ -14,10 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=C2dricLeroy&style=flat-square&color=blue" alt="view counter"/>
   
   [![Codewars](https://www.codewars.com/users/CedricLeroy/badges/large)](https://www.codewars.com/users/CedricLeroy)
-</div>
-<div id="viewCounter" align="center">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/C2dricLeroy/C2dricLeroy/devcard.svg" width="400" alt="Cedric Leroy's Dev Card"/></a>
-</div>  
+</div> 
 ___
 
 
@@ -70,9 +67,9 @@ ___
 [![Github stats](https://github-readme-stats.vercel.app/api?username=C2dricLeroy&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 </div>
 
-<div align = "center">
-
-</div>
+<div id="viewCounter" align="center">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/C2dricLeroy/C2dricLeroy/blob/main/devcard.svg" width="400" alt="Cedric Leroy's Dev Card"/></a>
+</div> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,6 +79,8 @@ ___
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://stackoverflow.com/users/19710061/c%c3%a9dric-leroy" target=_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/></a>
 </p>
+
+
 
 
 ___
