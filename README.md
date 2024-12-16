@@ -91,3 +91,16 @@ ___
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
 
+
+___
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    align="center"
+    src="https://render.gitanimals.org/lines/C2dricLeroy?pet-id=656437519480122145"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
