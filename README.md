@@ -98,8 +98,8 @@ ___
   <img
     align="center"
     src="https://render.gitanimals.org/lines/C2dricLeroy?pet-id=656437519480122145"
-    width="600"
-    height="120"
+    width="800"
+    height="200"
   />
 </a>
   
