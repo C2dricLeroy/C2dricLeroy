@@ -18,13 +18,15 @@
 ___
 
 
-## I'm **Cédric Leroy**, a software engineer based in Lille! :running:
+## I'm **Cédric Leroy**, a software engineer based in Lille, France! :running:
 
-Hello, I'm Cédric Leroy! After my degree of Psychology at the University of Lille, I discovered Web Development through science and experiment. I quickly decided to start a new career in web-development and became a self-taught programming student. As I discovered new tools and languages, I decided to became a Software Engineer. In this context, I met the Simplon's team and engaged for the preparation of the  application designer-developer title (CDA). I'm currently working at Smile as a Odoo / Python Developer
+Hello! I'm Cédric Leroy, a Python/Odoo developer with a strong focus on understanding client needs and delivering tailored solutions.
+I'm currently working at Smile as an Odoo/Python Developer.
 
-I'm an **algorithmic lover**, a huge **music fan**, and a truly **trustworthy person**. 
+I’m passionate about algorithms, deeply into music, and known for being reliable and committed.
 
-I would love to share with you my experiment and collaborate on different project, so feel free to contact me! 
+I believe that great software starts with listening. I love turning client challenges into effective, user-oriented applications.
+Feel free to reach out — I’m always open to collaboration and sharing experiences!
 
 ___
 
